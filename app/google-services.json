@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942245603473",
+    "project_id": "expensemanager-bc109",
+    "storage_bucket": "expensemanager-bc109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942245603473:android:4c229d1a2bc21795407730",
+        "android_client_info": {
+          "package_name": "com.exceldroid.expensemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5MRbn2amY6kxTHlCMvNJ99lVMX0RTxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

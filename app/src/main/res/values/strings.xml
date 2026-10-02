@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="food_12_07_2026">Food • 12/07/2026</string>
+    <string name="_1200">₹1200</string>
+    <string name="groceries">Groceries</string>
+    <string name="todo">TODO</string>
+    <string name="expense_manager">Expense Manager</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="date_dd_mm_yyyy">Date (dd/mm/yyyy)</string>
+    <string name="total_0">Total: ₹0</string>
+    <string name="search_expenses">Search expenses...</string>
+</resources>

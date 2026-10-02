@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:hint="@string/title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/edtbackground"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"/>
+
+    <EditText
+        android:id="@+id/etCategory"
+        android:hint="@string/category"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/edtbackground"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"/>
+
+    <EditText
+        android:id="@+id/etAmount"
+        android:hint="@string/amount"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/edtbackground"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"/>
+
+    <EditText
+        android:id="@+id/etDate"
+        android:hint="@string/date_dd_mm_yyyy"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/edtbackground"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"/>
+
+</LinearLayout>
